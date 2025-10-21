@@ -15,8 +15,6 @@ The dataset used to build this report is available below:
 
 ➡️ [**Download Financial Sample.xlsx**](Financial%20Sample.xlsx)
 
-*(If the file isn’t visible, upload it to this repository by clicking “Add file → Upload files” and add your Excel file.)*
-
 ---
 
 ## ⚙️ Tools Used
